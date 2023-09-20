@@ -1,1 +1,3 @@
-# Stable-Diffusion-Regularisation-Images
+# Stable Diffusion Ground Truth Regularisation Images
+
+Hello! I made [**a huge comparison**](https://github.com/InfluxOW/Stable-Diffusion-Text-To-Person/wiki/Model-Training--%E2%80%90--Comparison---%E2%80%90--%5BRegularisation%5D) on how different regularisation images affect the result. I found out that the real photos used as regularisation images make the result drastically better. As a source for that photos I used [Unsplash](https://unsplash.com/) due to free licence. In this repository you will find these ready to use regularisation images cropped to `1:1` aspect ratio for `man` and `woman`.
